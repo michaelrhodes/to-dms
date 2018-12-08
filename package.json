@@ -1,0 +1,8 @@
+{
+  "name": "to-dms",
+  "author": "Michael Rhodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "convert decimal lat/lon values into dms-formatted strings",
+  "license": "MIT"
+}
